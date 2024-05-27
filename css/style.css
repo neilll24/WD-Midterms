@@ -26,7 +26,6 @@ nav .contacts button {
     margin-left: 550px;
     background-color: #061121;
     color:aliceblue;
-
 }
 
 
@@ -56,7 +55,7 @@ nav ul li a {
 
 .hero {
     padding: 100px 20px;
-    text-align: center;
+    text-align: start;
 }
 
 .hero h1 {
@@ -64,7 +63,7 @@ nav ul li a {
     margin: 0;
 }
 
-.hero button {
+.hero button {  
     margin-top: 20px;
     padding: 10px 20px;
     background-color: #43dd6a;
